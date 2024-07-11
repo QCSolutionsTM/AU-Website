@@ -8,3 +8,5 @@ Devs: QC / KC
 Added base files // QC
 
 Added base files X2 // QC
+
+Design team (HN) Currently working on design for website 12:39 PM 7/11/2024
