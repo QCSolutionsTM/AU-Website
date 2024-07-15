@@ -21,3 +21,9 @@ NEW: actual navbar design, 78% finished 9:34 PM 7/11/24 (QC)
 ![update5](https://github.com/user-attachments/assets/7b3f06ed-7eea-40c7-80b3-2f2e97adbc86)
 ![update3](https://github.com/user-attachments/assets/4a2ecc1f-ab61-4db9-a51b-d39527d74726)
 ![update4](https://github.com/user-attachments/assets/3e323cec-a130-47a1-b292-aa62dfb07670)
+
+7/15/24 3:52
+Created discount popup //qc
+Created footer //qc
+Created Login and register options //qc
+Photo updates will be done tonight //qc
